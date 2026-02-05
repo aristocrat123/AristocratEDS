@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/aristocrat-EDS/:/",
+    "/content/aristocrat-EDS/configuration:/.helix/config.json",
+    "/content/aristocrat-EDS/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/aristocrat-EDS/"
   ]
 }
